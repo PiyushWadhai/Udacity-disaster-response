@@ -42,7 +42,7 @@ The Project is divided in the following Sections:
 ### Installing
 Clone this GIT repository:
 ```
-git clone https://github.com/matteobonanomi/disaster-response.git
+git clone https://github.com/PiyushWadhai/Udacity-disaster-response.git
 ```
 <a name="executing"></a>
 ### Executing Program:
